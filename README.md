@@ -17,7 +17,7 @@ Proje; `Player`, `Game` (base class) ve ondan türetilmiş 3 oyun sınıfından 
 
 3. **Vampire Sheriff (Kendi Oyunum)**  
    - 10 oyuncu, rastgele Sheriff & Vampire rolleri  
-   - Gündüz/gece döngüsüyle kim kimi bulacak oyunu
+   - Gündüz/gece döngüsüyle vampir köylü benzeri kim kimi bulacak oyunu
 
 ---
 
