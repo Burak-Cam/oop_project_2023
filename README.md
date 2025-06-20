@@ -3,10 +3,6 @@
 C++ ile yazılmış, konsol tabanlı bir oyun uygulaması. Bu proje, **CSE3003 Object Oriented Programming** dersi dönem ödevi olarak geliştirilmiştir.  
 Proje; `Player`, `Game` (base class) ve ondan türetilmiş 3 oyun sınıfından oluşur.
 
-> 👤 Burak Çam – 2200003720  
-> 📚 CSE3003 – OOP (Fall 2023–24)  
-> 🎓 Grade weight: ~40%
-
 ---
 
 ## 🕹️ Oyunlar
