@@ -55,8 +55,6 @@ Proje; `Player`, `Game` (base class) ve ondan türetilmiş 3 oyun sınıfından 
 
 ## 📝 Notlar
 
-- Kodun her yeri açıklamalı  
-- Ekran görüntüleri & sınıf diyagramı sunum için yerelde mevcut  
 - Proje tek başıma yapıldı, iş birliği yoktur
 
 ---
