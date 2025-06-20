@@ -50,6 +50,7 @@ Proje; `Player`, `Game` (base class) ve ondan türetilmiş 3 oyun sınıfından 
 ├── *.sln, *.vcxproj # VS Solution & proje dosyaları
 
 └── .gitignore # Build dosyaları ignore edilir
+
 ---
 
 ## 📝 Notlar
