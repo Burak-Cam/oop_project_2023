@@ -33,7 +33,9 @@ The project consists of a `Player` class, a `Game` base class, and three derived
 ## 📁 File Structure
 
 ├── Project.cpp         # All games & classes
+
 ├── *.sln, *.vcxproj    # VS Solution & project files
+
 └── .gitignore          # Ignores build files
 
 
