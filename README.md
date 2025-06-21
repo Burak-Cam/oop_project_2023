@@ -1,60 +1,44 @@
 # 🎮 OOP Game Project – Fall 2023–2024
 
-C++ ile yazılmış, konsol tabanlı bir oyun uygulaması. Bu proje, **CSE3003 Object Oriented Programming** dersi dönem ödevi olarak geliştirilmiştir.  
-Proje; `Player`, `Game` (base class) ve ondan türetilmiş 3 oyun sınıfından oluşur.
+A console-based game application written in C++. This project was developed as a term assignment for the CSE3003 Object-Oriented Programming course.
 
----
+The project consists of a `Player` class, a `Game` base class, and three derived game classes.
 
-## 🕹️ Oyunlar
+## 🕹️ Games
 
-1. **Find the Synonym**  
-   - 5 kelimenin eş anlamlısı tahmin edilir  
-   - 5 hakkın kaldığına göre skor verilir
+### Find the Synonym
+- Guess the synonyms of 5 words
+- Scoring based on 5 remaining attempts
 
-2. **Guess the Movie**  
-   - Kolay/Orta/Zor mod seçimi  
-   - Film adı gizlenir, harf ya da direkt tahmin yapılır
+### Guess the Movie
+- Choose Easy/Medium/Hard mode
+- Movie title is hidden; guess letters or the full title
 
-3. **Vampire Sheriff (Kendi Oyunum)**  
-   - 10 oyuncu, rastgele Sheriff & Vampire rolleri  
-   - Gündüz/gece döngüsüyle vampir köylü benzeri kim kimi bulacak oyunu
+### Vampire Sheriff (My Original Game)
+- 10 players with randomly assigned Sheriff & Vampire roles
+- Day/night cycle, similar to a vampire-villager deduction game
 
----
+## 🧱 Used OOP Concepts
+- Class + Inheritance
+- Constructors & Destructors
+- Accessor/Mutator Methods
+- Virtual Methods & Polymorphism
+- Dynamic Memory (new/delete)
 
-## 🧱 Kullanılan OOP Yapıları
+## 🚀 Running the Project
+- Open the `.sln` file in Visual Studio
+- Build (Ctrl+Shift+B), run (F5)
+- Select a game from the menu, play, and view your score
 
-- Class + Inheritance  
-- Constructors & Destructors  
-- Accessor/Mutator Methods  
-- Virtual Methods & Polymorphism  
-- Dynamic memory (`new` / `delete`)
+## 📁 File Structure
 
----
+├── Project.cpp         # All games & classes
+├── *.sln, *.vcxproj    # VS Solution & project files
+└── .gitignore          # Ignores build files
 
-## 🚀 Çalıştırma
 
-1. Visual Studio ile `.sln` dosyasını aç  
-2. Build et (Ctrl+Shift+B), çalıştır (F5)  
-3. Menüden oyun seç, oyna, skorunu gör
-
----
-
-## 📁 Dosya Yapısı
-
-├── Project.cpp # Tüm oyunlar & sınıflar
-
-├── *.sln, *.vcxproj # VS Solution & proje dosyaları
-
-└── .gitignore # Build dosyaları ignore edilir
-
----
-
-## 📝 Notlar
-
-- Proje tek başıma yapıldı, iş birliği yoktur
-
----
+## 📝 Notes
+- The project was developed entirely by me, with no collaboration.
 
 ## 📎 GitHub
-
-> Profilde sabitlenmiştir: [@Burak-Cam/oop_project_2022](https://github.com/Burak-Cam/oop_project_2022)
+- Pinned on my profile: [@Burak-Cam/oop_project_2022](https://github.com/Burak-Cam/oop_project_2022)
